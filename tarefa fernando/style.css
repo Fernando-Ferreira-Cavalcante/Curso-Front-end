@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: cadetblue;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 3rem;
+}
+.sessao1{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    margin: 10rem;
+    height:45rem;
+    border-radius: 2rem;
+}
+.sessao1 h2{
+    padding-top: 1rem;
+    font-size: 5rem;
+}
+.sessao1 p{
+    padding-top: 2.5rem;
+    font-size: 3rem;
+   
+}
+.sessao1 img{
+    margin-top: 3rem;
+    border-radius: 1rem;
+}
+
+.sessao2{
+    margin-top: -4.5rem;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+  
+    
+}
+.sessao2 td{
+    padding: 1rem;
+    border: 2px solid cadetblue;
+    border-radius: 1rem;
+    background-color: rgb(74, 124, 126);
+    color: white;
+}
+
+.rodape{
+    margin-top: 4.3rem;
+    background-color: cadetblue;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
